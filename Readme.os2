@@ -1,0 +1,11 @@
+This is a port to OS/2 from the WIN32 version using GCC 3.3.5 Beta 2.
+It is statically linked and has no dependencies on any GCC DLLs.
+
+This software was ported to OS/2 by Paul Ratcliffe
+utils@orac12.clara.34.co56.uk78 (remove the numbers to email me).
+
+History
+-------
+30 July 2005	Enabled wildcards on the command line.
+
+3 Jan. 2005	Initial port.
